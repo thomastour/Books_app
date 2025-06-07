@@ -6,7 +6,7 @@ This is a simple API for managing books and reviews, built with **Django REST Fr
 
 ## Technologies Used
 
-- Python 3
+- Python 
 - Django
 - Django REST Framework
 - dj-rest-auth (login, registration)
